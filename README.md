@@ -17,16 +17,16 @@ This project is a modern and interactive website frontend built using **HTML, CS
 ## 📌 Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/rishigupta19/https://github.com/rishigupta19/WizardZ.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd your-repository
+   cd https://github.com/rishigupta19/WizardZ.git
    ```
 3. Open `index.html` in your browser.
 
 ## ✨ Preview
-You can check out the live demo [here](#) (Replace with your live URL if deployed).
+You can check out the live demo on https://wizardzweb.netlify.app
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
